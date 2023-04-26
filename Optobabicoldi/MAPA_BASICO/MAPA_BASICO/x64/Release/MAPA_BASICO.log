@@ -1,0 +1,12 @@
+﻿  Snake.cpp
+C:\Users\Nacho\Desktop\GitNuevo\Juego-Basico\MAPA_BASICO\MAPA_BASICO\Snake.h(57,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Nacho\Desktop\GitNuevo\Juego-Basico\MAPA_BASICO\MAPA_BASICO\Snake.h(141,69): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Nacho\Desktop\GitNuevo\Juego-Basico\MAPA_BASICO\MAPA_BASICO\Snake.h(141,37): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Nacho\Desktop\GitNuevo\Juego-Basico\MAPA_BASICO\MAPA_BASICO\Snake.h(147,17): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Nacho\Desktop\GitNuevo\Juego-Basico\MAPA_BASICO\MAPA_BASICO\Snake.h(148,17): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  Generando código
+  0 of 590 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  MAPA_BASICO.vcxproj -> C:\Users\Nacho\Desktop\GitNuevo\Juego-Basico\MAPA_BASICO\x64\Release\MAPA_BASICO.exe

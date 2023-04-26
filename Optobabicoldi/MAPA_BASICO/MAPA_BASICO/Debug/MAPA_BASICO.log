@@ -1,0 +1,49 @@
+﻿Game.obj : error LNK2019: símbolo externo _InitWindow sin resolver al que se hace referencia en la función "public: void __thiscall Game::Initialise(void)" (?Initialise@Game@@QAEXXZ)
+Game.obj : error LNK2019: símbolo externo _WindowShouldClose sin resolver al que se hace referencia en la función "public: void __thiscall Game::RunLoop(void)" (?RunLoop@Game@@QAEXXZ)
+Menu.obj : error LNK2001: símbolo externo _WindowShouldClose sin resolver
+Pong.obj : error LNK2001: símbolo externo _WindowShouldClose sin resolver
+Game.obj : error LNK2019: símbolo externo _CloseWindow sin resolver al que se hace referencia en la función "public: void __thiscall Game::Shutdown(void)" (?Shutdown@Game@@QAEXXZ)
+Game.obj : error LNK2019: símbolo externo _ClearBackground sin resolver al que se hace referencia en la función "private: void __thiscall Game::GenerateOutput(void)" (?GenerateOutput@Game@@AAEXXZ)
+Menu.obj : error LNK2001: símbolo externo _ClearBackground sin resolver
+Pong.obj : error LNK2001: símbolo externo _ClearBackground sin resolver
+Game.obj : error LNK2019: símbolo externo _BeginDrawing sin resolver al que se hace referencia en la función "private: void __thiscall Game::GenerateOutput(void)" (?GenerateOutput@Game@@AAEXXZ)
+Menu.obj : error LNK2001: símbolo externo _BeginDrawing sin resolver
+Pong.obj : error LNK2001: símbolo externo _BeginDrawing sin resolver
+Game.obj : error LNK2019: símbolo externo _EndDrawing sin resolver al que se hace referencia en la función "private: void __thiscall Game::GenerateOutput(void)" (?GenerateOutput@Game@@AAEXXZ)
+Menu.obj : error LNK2001: símbolo externo _EndDrawing sin resolver
+Pong.obj : error LNK2001: símbolo externo _EndDrawing sin resolver
+Game.obj : error LNK2019: símbolo externo _SetTargetFPS sin resolver al que se hace referencia en la función "public: void __thiscall Game::Initialise(void)" (?Initialise@Game@@QAEXXZ)
+Game.obj : error LNK2019: símbolo externo _IsKeyDown sin resolver al que se hace referencia en la función "private: void __thiscall Game::GenerateOutput(void)" (?GenerateOutput@Game@@AAEXXZ)
+Menu.obj : error LNK2001: símbolo externo _IsKeyDown sin resolver
+Personaje2D.obj : error LNK2001: símbolo externo _IsKeyDown sin resolver
+Pong.obj : error LNK2001: símbolo externo _IsKeyDown sin resolver
+Game.obj : error LNK2019: símbolo externo _DrawRectangle sin resolver al que se hace referencia en la función "private: void __thiscall Game::GenerateOutput(void)" (?GenerateOutput@Game@@AAEXXZ)
+Menu.obj : error LNK2001: símbolo externo _DrawRectangle sin resolver
+Game.obj : error LNK2019: símbolo externo _CheckCollisionRecs sin resolver al que se hace referencia en la función "private: void __thiscall Game::GenerateOutput(void)" (?GenerateOutput@Game@@AAEXXZ)
+Personaje2D.obj : error LNK2001: símbolo externo _CheckCollisionRecs sin resolver
+Game.obj : error LNK2019: símbolo externo _DrawText sin resolver al que se hace referencia en la función "private: void __thiscall Game::GenerateOutput(void)" (?GenerateOutput@Game@@AAEXXZ)
+Menu.obj : error LNK2001: símbolo externo _DrawText sin resolver
+Pong.obj : error LNK2001: símbolo externo _DrawText sin resolver
+Mapa.obj : error LNK2019: símbolo externo _LoadTexture sin resolver al que se hace referencia en la función "public: __thiscall Loseta::Loseta(char const *,int,int,int,int)" (??0Loseta@@QAE@PBDHHHH@Z)
+Personaje2D.obj : error LNK2001: símbolo externo _LoadTexture sin resolver
+Mapa.obj : error LNK2019: símbolo externo _DrawTexture sin resolver al que se hace referencia en la función "public: void __thiscall Loseta::Draw(void)" (?Draw@Loseta@@QAEXXZ)
+Mapa.obj : error LNK2019: símbolo externo _DrawTextureRec sin resolver al que se hace referencia en la función "public: void __thiscall Loseta::DrawRec(void)" (?DrawRec@Loseta@@QAEXXZ)
+Menu.obj : error LNK2019: símbolo externo _GetScreenWidth sin resolver al que se hace referencia en la función "int __cdecl menu(void)" (?menu@@YAHXZ)
+Pong.obj : error LNK2001: símbolo externo _GetScreenWidth sin resolver
+Menu.obj : error LNK2019: símbolo externo _GetScreenHeight sin resolver al que se hace referencia en la función "int __cdecl menu(void)" (?menu@@YAHXZ)
+Pong.obj : error LNK2001: símbolo externo _GetScreenHeight sin resolver
+Menu.obj : error LNK2019: símbolo externo _IsKeyPressed sin resolver al que se hace referencia en la función "int __cdecl menu(void)" (?menu@@YAHXZ)
+Pong.obj : error LNK2001: símbolo externo _IsKeyPressed sin resolver
+Menu.obj : error LNK2019: símbolo externo _DrawPoly sin resolver al que se hace referencia en la función "int __cdecl menu(void)" (?menu@@YAHXZ)
+Menu.obj : error LNK2019: símbolo externo _MeasureText sin resolver al que se hace referencia en la función "int __cdecl menu(void)" (?menu@@YAHXZ)
+Pong.obj : error LNK2001: símbolo externo _MeasureText sin resolver
+Menu.obj : error LNK2019: símbolo externo "public: void __thiscall GameRunSnake::game(void)" (?game@GameRunSnake@@QAEXXZ) sin resolver al que se hace referencia en la función "public: void __thiscall Submenu::printMenu(class GameRunSnake *,char const *)" (?printMenu@Submenu@@QAEXPAVGameRunSnake@@PBD@Z)
+Personaje2D.obj : error LNK2019: símbolo externo _DrawTextureEx sin resolver al que se hace referencia en la función "public: void __thiscall Personaje2D::Draw(float,float,struct Color,float,float)" (?Draw@Personaje2D@@QAEXMMUColor@@MM@Z)
+Pong.obj : error LNK2019: símbolo externo _GetRenderHeight sin resolver al que se hace referencia en la función "public: void __thiscall Pong::game(void)" (?game@Pong@@QAEXXZ)
+Pong.obj : error LNK2019: símbolo externo _GetFrameTime sin resolver al que se hace referencia en la función "public: void __thiscall Pong::game(void)" (?game@Pong@@QAEXXZ)
+Pong.obj : error LNK2019: símbolo externo _DrawCircle sin resolver al que se hace referencia en la función "public: void __thiscall Ball::Draw(void)" (?Draw@Ball@@QAEXXZ)
+Pong.obj : error LNK2019: símbolo externo _DrawRectangleRec sin resolver al que se hace referencia en la función "public: void __thiscall Paddle::Draw(void)" (?Draw@Paddle@@QAEXXZ)
+Pong.obj : error LNK2019: símbolo externo _CheckCollisionCircleRec sin resolver al que se hace referencia en la función "public: void __thiscall Pong::game(void)" (?game@Pong@@QAEXXZ)
+Pong.obj : error LNK2019: símbolo externo _DrawFPS sin resolver al que se hace referencia en la función "public: void __thiscall Pong::game(void)" (?game@Pong@@QAEXXZ)
+C:\raylib\lib\raylib.lib : warning LNK4272: el tipo de máquina de biblioteca 'x64' está en conflicto con el tipo de máquina de destino 'x86'
+C:\Users\Nacho\Desktop\GitNuevo\Juego-Basico\MAPA_BASICO\Debug\MAPA_BASICO.exe : fatal error LNK1120: 27 externos sin resolver

@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de origen">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="PJ2D">
+      <UniqueIdentifier>{da83f2cd-4843-4ca8-959a-4e84c52adc19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pong">
+      <UniqueIdentifier>{0e16341a-1d3a-4e0d-bd53-1304c490df74}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Menu">
+      <UniqueIdentifier>{6aa482e2-c09a-4e17-9dc0-e925df848545}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Snake">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Asteroid">
+      <UniqueIdentifier>{68ce4bae-d385-4983-bdd9-891370aab1e1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Mapa.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Matriz.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Personaje2D.cpp">
+      <Filter>PJ2D</Filter>
+    </ClCompile>
+    <ClCompile Include="Snake.cpp">
+      <Filter>Snake</Filter>
+    </ClCompile>
+    <ClCompile Include="Asteroid.cpp">
+      <Filter>Asteroid</Filter>
+    </ClCompile>
+    <ClCompile Include="Pong.cpp">
+      <Filter>Pong</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Funciones.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Mapa.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Matriz.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Personaje2D.h">
+      <Filter>PJ2D</Filter>
+    </ClInclude>
+    <ClInclude Include="Snake.h">
+      <Filter>Snake</Filter>
+    </ClInclude>
+    <ClInclude Include="Asteroid.h">
+      <Filter>Asteroid</Filter>
+    </ClInclude>
+    <ClInclude Include="Pong.h">
+      <Filter>Pong</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,3 @@
+C:\Users\Adriel\Desktop\GAME JAM 03 (2023)\Proyectos prueba\MAPA_BASICO\MAPA_BASICO\Debug\MAPA_BASICO.vcxproj.CopyComplete
+C:\Users\Nachito\Desktop\GameActualizado\Juego-Basico\MAPA_BASICO\MAPA_BASICO\Debug\MAPA_BASICO.vcxproj.CopyComplete
+C:\Users\Nacho\Desktop\GitNuevo\Juego-Basico\MAPA_BASICO\MAPA_BASICO\Debug\MAPA_BASICO.vcxproj.CopyComplete

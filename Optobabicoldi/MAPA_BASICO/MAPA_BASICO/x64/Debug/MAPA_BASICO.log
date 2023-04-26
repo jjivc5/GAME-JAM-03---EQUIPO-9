@@ -1,0 +1,12 @@
+﻿  Game.cpp
+C:\Users\Nacho\Desktop\GitNuevo\Juego-Basico\MAPA_BASICO\MAPA_BASICO\Snake.h(56,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Nacho\Desktop\GitNuevo\Juego-Basico\MAPA_BASICO\MAPA_BASICO\Snake.h(139,69): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Nacho\Desktop\GitNuevo\Juego-Basico\MAPA_BASICO\MAPA_BASICO\Snake.h(139,37): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Nacho\Desktop\GitNuevo\Juego-Basico\MAPA_BASICO\MAPA_BASICO\Snake.h(145,17): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Nacho\Desktop\GitNuevo\Juego-Basico\MAPA_BASICO\MAPA_BASICO\Snake.h(146,17): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Nacho\Desktop\GitNuevo\Juego-Basico\MAPA_BASICO\MAPA_BASICO\Game.h(28): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Nacho\Desktop\GitNuevo\Juego-Basico\MAPA_BASICO\MAPA_BASICO\Game.h(29,54): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Nacho\Desktop\GitNuevo\Juego-Basico\MAPA_BASICO\MAPA_BASICO\Game.h(30,49): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Nacho\Desktop\GitNuevo\Juego-Basico\MAPA_BASICO\MAPA_BASICO\Game.h(31): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Nacho\Desktop\GitNuevo\Juego-Basico\MAPA_BASICO\MAPA_BASICO\Game.h(31,51): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  MAPA_BASICO.vcxproj -> C:\Users\Nacho\Desktop\GitNuevo\Juego-Basico\MAPA_BASICO\x64\Debug\MAPA_BASICO.exe
